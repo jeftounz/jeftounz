@@ -1,4 +1,4 @@
-### Hola 👋, Hola 👋, soy Jesús González
+### Hola mi estimado internauta, soy Jesús González.
 #### Systems Engineer | AI & Automation Architect | Hybrid Developer
 ![Systems Engineer | AI & Automation Architect | Hybrid Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
