@@ -6,8 +6,5 @@ Ingeniero de Sistemas con trayectoria en la creación de ecosistemas digitales d
 
 Habilidades: Lenguajes: Python , JavaScript, Dart, SQL  Automatización & IA: n8n , Make.com, OpenAI API, LangChain, Prompt Engineering                                                                Frameworks & Tools: Django, Flutter, Git, Docker, AWS  Ecosistemas: Vtiger, Monday.com
 
-- 🔭 Estoy trabajando en this page. 
-
-
-
-
+#### 🔭 En qué estoy trabajando 
+Arquitecturas de Integración: Diseño de flujos inteligentes para la sincronización de datos entre CRM y ERP.Agentes de IA: Implementación de soluciones basadas en LLMs para la automatización de procesos de decisión.Workflows Portfolio: Documentando mi lógica y procesos en el repositorio AI-Automation-Workflows.
