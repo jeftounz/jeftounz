@@ -16,8 +16,6 @@ Analizador Semántico de Talento (n8n + AI): Flujo de arquitectura avanzada para
 
 Intelligent Service Request Firewall (Make + Monday): Sistema de validación de intención y filtrado inteligente de tickets. Optimiza el tiempo de respuesta del equipo de soporte al bloquear entradas redundantes o inválidas.
 
-PoC: Sincronizador de Inventario "Zero-Friction" (n8n): Arquitectura de integración entre PrestaShop y Odoo. Automatiza la validación de stock y generación de facturación proforma, con una capa de IA para atención al cliente automatizada.
-
 💻 Backend & Computer Vision (High-Code Systems)
 
 Extractor Inteligente webscraping (Django + Gemini): Motor de búsqueda basado en scraping ético (Selenium/BS4) con una capa de síntesis de datos mediante la API de Gemini para análisis de mercado laboral en tiempo real.
