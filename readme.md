@@ -1,6 +1,6 @@
 ### Hola mi estimado internauta, soy Jesús González.
 #### Systems Engineer | AI & Automation Architect | Hybrid Developer
-![Systems Engineer | AI & Automation Architect | Hybrid Developer](https://github.com/jeftounz/jeftounz/blob/main/images/banner)
+![Systems Engineer | AI & Automation Architect | Hybrid Developer](https://github.com/jeftounz/jeftounz/blob/main/images/banner.jpg)
 
 Ingeniero de Sistemas con trayectoria en la creación de ecosistemas digitales desde 2022. Mi enfoque es la Ingeniería Híbrida: combinar la robustez del desarrollo nativo (Python/JS) con la agilidad de la automatización avanzada (n8n/Make) para maximizar el ROI tecnológico de las empresas.
 
